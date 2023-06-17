@@ -17,18 +17,20 @@ Hey there, fellow coders! I'm Omid Shabab, a Flutter aficionado and software sor
 - Firebase 🔥
 - Git 🌳
 
+
 ## 📚 Blog
 
 I also share my thoughts, tips, and tricks about Flutter on my personal blog. Feel free to check it out for some Flutter magic!
 
-[![Personal Blog]([https://omidshabab.com])]
+![Personal Blog]([https://omidshabab.com])
+
 
 ## 🚀 Projects
 
 Here are a few spells... I mean projects, that I've worked on:
 
 1. **Smooth Widgets** 📚 - Custom Widgets created by myself
-   - GitHub Repository: [smooth_widget](https://github.com/omidshababdev/smooth_widgets)
+   - GitHub Repository: [Smooth Widgets](https://github.com/omidshababdev/smooth_widgets)
 
 2. **Easy Todo** 🧪 - GetX, Provider, Flutter App
    - GitHub Repository: [Easy Todo](https://github.com/omidshababdev/easytodo_app)
