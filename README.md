@@ -1,6 +1,6 @@
 # Omid Shabab 😄
 
-[![GitHub Profile](https://github.com/omidshababdev)](https://github.com/omidshababdev)
+https://github.com/omidshababdev
 
 ## 👋 Introduction
 
