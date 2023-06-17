@@ -22,7 +22,7 @@ Hey there, fellow coders! I'm Omid Shabab, a Flutter aficionado and software sor
 
 I also share my thoughts, tips, and tricks about Flutter on my personal blog. Feel free to check it out for some Flutter magic!
 
-![Personal Blog(https://omidshabab.com)]
+Personal Blog (https://omidshabab.com)
 
 
 ## 🚀 Projects
