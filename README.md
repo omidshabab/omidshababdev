@@ -17,6 +17,12 @@ Hey there, fellow coders! I'm Omid Shabab, a Flutter aficionado and software sor
 - Firebase 🔥
 - Git 🌳
 
+## 📚 Blog
+
+I also share my thoughts, tips, and tricks about Flutter on my personal blog. Feel free to check it out for some Flutter magic!
+
+[![Personal Blog]([https://omidshabab.com])]
+
 ## 🚀 Projects
 
 Here are a few spells... I mean projects, that I've worked on:
